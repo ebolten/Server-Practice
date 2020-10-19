@@ -1,4 +1,4 @@
 # Server-Practice
 a Server written in PHP.
 
-![Image Couldn't Load](phpserver.png)
+![Image Couldn't Load](phpserver.PNG)
